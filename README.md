@@ -1,1 +1,1 @@
-https://github.com/cqurjjj/Picture/blob/master/assign02.PNG
+![image](https://github.com/cqurjjj/MyWeather/blob/master/assign02.PNG)
