@@ -1,1 +1,1 @@
-![image](https://github.com/cqurjjj/Picture/blob/master/assign02.PNG)
+https://github.com/cqurjjj/Picture/blob/master/assign02.PNG
